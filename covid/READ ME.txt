@@ -1,0 +1,4 @@
+Project: Cvid vaccination website.
+SQL Database file attached as cowin.
+Go to localhost/covid/home.php for the user home page.
+Go to localhost/covid/vaccen.php for the admin page.
